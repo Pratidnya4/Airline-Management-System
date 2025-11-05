@@ -10,10 +10,10 @@ Airline Management System is a desktop-based application that allows a user to a
 ⦁	Java 11
 ⦁	MySQL
 
-4. Project Dependencies:
+3. Project Dependencies:
 mysql-connector-java-8.0.27.jar
 
-5. Installation:
+4. Installation:
    
 i. Clone the git repo
  https://github.com/Pratidnya4/Airline-Management-System.git
