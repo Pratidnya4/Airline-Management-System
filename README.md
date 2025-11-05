@@ -6,13 +6,15 @@ Airline Management System
 Airline Management System is a desktop-based application that allows a user to access passenger's details, flight details and flight booking details.
 
 2. Tech Stack:
+   
 ⦁	Java 11
 ⦁	MySQL
 
-3. Project Dependencies:
+4. Project Dependencies:
 mysql-connector-java-8.0.27.jar
 
-4. Installation:
+5. Installation:
+   
 i. Clone the git repo
  https://github.com/Pratidnya4/Airline-Management-System.git
 
@@ -23,6 +25,7 @@ iii. Explore
 😎
 
 5. How To Use:
+   
 i. Create Database and Tables (src/airline/mysql_commands.txt)
 
 ii. Run MySQL Server
